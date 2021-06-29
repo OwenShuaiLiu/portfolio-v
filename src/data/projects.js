@@ -20,7 +20,7 @@ const PROJECTS = [
    {
        id: 3,
        title: 'Analytics Project',
-       description: 'My unique final project for my university Operating Systems course',
+       description: 'My ucapstone project for my graduate capstone project.',
        link: 'https://github.com/OwenShuaiLiu/capstone_demand_modeling',
        image: project3
    }
