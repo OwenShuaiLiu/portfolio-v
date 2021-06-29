@@ -12,16 +12,16 @@ const PROJECTS = [
    },
    {
        id: 2,
-       title: 'My API',
+       title: 'Boomerang API',
        description: 'A REST API that I built from scratch with GET and POST requests.',
-       link: 'https://github.com/OwenShuaiLiu/Boomerang_Back_End',
+       link: 'https://github.com/OwenShuaiLiu/Boomerang-dev',
        image: project2
    },
    {
        id: 3,
-       title: 'Analytics Project',
-       description: 'An ML-based demand forecasting project for my graduate capstone.',
-       link: 'https://github.com/OwenShuaiLiu/capstone_demand_modeling',
+       title: '5G-AI Innovation Project',
+       description: 'An Innovation Project Applying AI to 5G Network Operations',
+       link: 'https://github.com/OwenShuaiLiu/5G-AI-Innovation',
        image: project3
    }
 ];
