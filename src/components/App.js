@@ -12,7 +12,7 @@ class App extends Component{
   render() {
       return (
           <div>
-              <img src={profile} alt='profile' className="profile"/>
+              <img src={profile} alt='profile' href= "https://www.linkedin.com/in/owen-shuai-liu/" className="profile"/>
               <h1>Hello!</h1>
               <p>My name is Owen.</p>
               <Title />
