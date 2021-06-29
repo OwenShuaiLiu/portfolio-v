@@ -22,7 +22,7 @@ class App extends Component{
                       <div>
                           <p>I live in Mountain View, practice every day.</p>
                           <p>My favourite language is Python, and I think React.js is also awesome.</p>
-                          <p>Beside practicing, I also love sports and reading.</p>
+                          <p>Besides practicing, I also love sports and reading.</p>
                           <button onClick={this.toggleDisplayBio}>Show less</button>
                       </div>
                   ) : (
