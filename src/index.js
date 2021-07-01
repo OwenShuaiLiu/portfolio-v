@@ -6,6 +6,7 @@ import App from './components/App';
 import Jokes from './components/Jokes';
 import Header from './components/Header';
 import MusicMaster from './projects/music-master';
+import TableauViz from './projects/tableau-viz';
 import './index.css';
  
  
@@ -15,6 +16,7 @@ ReactDOM.render(
             <Route exact path = '/' render={() => <Header><App /></Header>} />
             <Route path = '/jokes' render={() => <Header><Jokes /></Header>} />
             <Route path = '/music-master' render={() => <Header><MusicMaster /></Header>} />
+            <Route path = '/tableau-viz' render={() => <Header><TableauViz /></Header>} />
         </Switch>
     </BrowserRouter>,
    document.getElementById('root')
